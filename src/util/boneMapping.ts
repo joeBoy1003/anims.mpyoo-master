@@ -1,0 +1,16 @@
+export const boneMapping: Record<string, number> = {
+  spine: 0,
+  head: 1,
+  leftUpperArm: 11,
+  leftLowerArm: 13,
+  leftHand: 15,
+  rightUpperArm: 12,
+  rightLowerArm: 14,
+  rightHand: 16,
+  leftUpperLeg: 23,
+  leftLowerLeg: 25,
+  leftFoot: 27,
+  rightUpperLeg: 24,
+  rightLowerLeg: 26,
+  rightFoot: 28,
+};
